@@ -1,5 +1,5 @@
 <?php 
-require_once RUTA_APP .'/views/inc/header.php';
+require_once RUTA_APP .'/views/inc/header_cp.php';
 ?>
 <div class="container">
 	<div class="row justify-content-center">
@@ -9,5 +9,5 @@ require_once RUTA_APP .'/views/inc/header.php';
 	</div>
 </div>
 <?php 
-require_once RUTA_APP .'/views/inc/footer_scripts.php';
+require_once RUTA_APP .'/views/inc/footer.php';
 ?>

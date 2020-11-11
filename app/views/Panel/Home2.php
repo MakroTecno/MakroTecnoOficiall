@@ -45,7 +45,7 @@
           <a class="nav-link js-scroll-trigger" href="#contacto">Contacto</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="<?php echo RUTA;?>Panel/login">Plataforma</a>
+          <a class="nav-link js-scroll-trigger" href="<?php echo RUTA;?>Panel/loginUser">Plataforma</a>
         </li>
       </ul>
     </div>

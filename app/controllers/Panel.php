@@ -10,7 +10,7 @@ class Panel extends Controller
     }
     public function index()
     {
-        $this->vista('Panel/Construccion');
+        $this->vista('Panel/Home');
     }
     public function login()
     {
@@ -47,7 +47,7 @@ class Panel extends Controller
                     $this->session->add('apellidos', $apellidos);
                     $this->session->add('status', $rol);
                     $this->session->add('email', $email);
-                    header("Location: http://www.makrotecno.net/Inicio");
+                    header("Location: http://localhost/MakrotecnoWeb/Inicio");
                 }
             } else {
                 $excepcion->datenoexits();

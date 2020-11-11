@@ -20,7 +20,7 @@
     * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
     -->
 <link href="<?php echo RUTA?>public/css/main.css" rel="stylesheet">
-<script src="<?php echo RUTA?>public/js/indexfact.js"></script>
+<!--script src="<?php echo RUTA?>public/js/indexfact.js"></script-->
 <script src="<?php echo RUTA?>public/vendor/jquery/jquery.min.js"></script>
 </head>
 <body>
